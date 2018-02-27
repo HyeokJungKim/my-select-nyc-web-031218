@@ -9,7 +9,7 @@ def my_select(array)
       end
       i+=1
     end
-    arr
+    array
   else
     array
   end
