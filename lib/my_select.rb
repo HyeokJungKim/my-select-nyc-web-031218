@@ -1,4 +1,4 @@
-def my_select(collection)
+def my_select(array)
  # your code here!
  if block_given?
     i=0
