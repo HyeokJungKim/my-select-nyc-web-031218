@@ -7,7 +7,7 @@ def my_select(array)
       arr << yield(array[i])
       i+=1
     end
-    array
+    arr
   else
     array
   end
